@@ -7,3 +7,5 @@ const sum = (a, b) => {
     return a + b;
 };
 console.log(sum(23, "hello"));
+let useId;
+let regex = /\w+/g;
