@@ -7,5 +7,12 @@ Lesson01:
 Lesson02:
 -typechecking: inference,implicit and explicit
 -let name:string;
--unary types: let address:number|string
+-union types: let address:number|string
 -configuration setting noEmitOnError:true --> dont generate js if error presents
+
+Lesson03:
+-arrays:single type and multiple types
+-tuples
+-objects
+-interface: implemented functions and optional settings and checking
+-enum

@@ -9,3 +9,6 @@ const sum = (a:number,b:string)=>{
 }
 
 console.log(sum(23,"hello"))
+
+let useId:string|number ;
+let regex:RegExp = /\w+/g
