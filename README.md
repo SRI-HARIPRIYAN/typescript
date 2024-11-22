@@ -38,3 +38,13 @@
 -   default parameters
 -   rest parameters
 -   never type and custom type guards
+
+---
+
+**Lesson05**
+
+-   type assertions and casting
+-   specificity less to more specific
+-   double casting / unknown type
+-   ts in DOM and giving assertions
+-   simple assignment on ts DOM
