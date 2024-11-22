@@ -1,20 +1,40 @@
-Learning typescript
-Lesson01:
--typescript installation -- npm i typescript -g
--running ts: tsc main.ts <destination filename>
--file tree and typescript configuration
+**Learning typescript**
 
-Lesson02:
--typechecking: inference,implicit and explicit
--let name:string;
--union types: let address:number|string
--configuration setting noEmitOnError:true --> dont generate js if error presents
+**Lesson01:**
 
-Lesson03:
--arrays:single type and multiple types
--tuples
--objects
--interface: implemented functions and optional settings and checking
--enum
+-   typescript installation -- npm i typescript -g
+-   running ts: tsc main.ts <destination filename>
+-   file tree and typescript configuration
 
 ---
+
+**Lesson02:**
+
+-   typechecking: inference,implicit and explicit
+-   let name:string;
+-   union types: let address:number|string
+-   configuration setting noEmitOnError:true --> dont generate js if error presents
+
+---
+
+**Lesson03:**
+
+-   arrays:single type and multiple types
+-   tuples
+-   objects
+-   interface: implemented functions and optional settings and checking
+-   enum
+
+---
+
+**Lesson04"**
+
+-   functions
+-   type aliases
+-   literal types
+-   arrow function types and return types
+-   interface for function types
+-   optional parameters
+-   default parameters
+-   rest parameters
+-   never type and custom type guards
