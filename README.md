@@ -57,3 +57,13 @@
 -   subclasses
 -   static class members
 -   getters and setters
+
+---
+
+**Lesson07**
+
+-   index signatures
+-   accessing objects dynamically
+-   issues during dynamic access: undefined
+-   assertions for dynamic access
+-   Record<>
