@@ -48,3 +48,12 @@
 -   double casting / unknown type
 -   ts in DOM and giving assertions
 -   simple assignment on ts DOM
+
+---
+
+**Lesson06**
+
+-   classes and interfaces
+-   subclasses
+-   static class members
+-   getters and setters
