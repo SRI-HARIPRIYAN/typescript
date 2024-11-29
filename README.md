@@ -67,3 +67,11 @@
 -   issues during dynamic access: undefined
 -   assertions for dynamic access
 -   Record<>
+
+---
+
+**Lesson08**
+
+-   generic types
+-   generic extends interface
+-   class generics
