@@ -75,3 +75,17 @@
 -   generic types
 -   generic extends interface
 -   class generics
+
+---
+
+**Lesson09**
+
+-   Utility types
+-   Partial
+-   Required and Readonly
+-   Pick and Omit
+-   Exclude and Extract
+-   NonNullable
+-   ReturnType
+-   Parameters
+-   Awaited-for Promises
